@@ -1,0 +1,10 @@
+*.pyc
+
+# virtual envs
+venv
+
+# pyenv
+.python-version
+
+# examples
+item_specific_rs.txt
