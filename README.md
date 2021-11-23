@@ -1,6 +1,6 @@
 # SyntaxGym Evaluation
 
-This repository contains test suites and scripts for evaluating syntactic generalization in neural language models. The code is based on [SyntaxGym](https://github.com/cpllab/syntaxgym-core), with modification to support evaluation directly from model's surprisal output.
+This repository contains test suites and scripts for evaluating syntactic generalization of language models. The code is based on [SyntaxGym](https://github.com/cpllab/syntaxgym-core), with modification to support evaluation directly from model's surprisal output. Detailed description of the test suites can be found in [Hu et al., (2020)](https://aclanthology.org/2020.acl-main.158/).
 
 Required python packages may include `docker`, etc.
 
