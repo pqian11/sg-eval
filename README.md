@@ -14,7 +14,7 @@ This code requires Python 3.7. You can install the modules with `pip` as
 
 The evaluation script takes an surprisal file as its input. An example of the surprisal file can be found in the last section of [Quick Start page](https://cpllab.github.io/lm-zoo/quickstart.html) from LM-zoo documentation.
 
-## Get accuracy score for a particular test suite
+## Get the accuracy score of a test suite
 
 The following script will print out the score for the test suite `fgd_hierarchy.txt`. By-item evaluation results will be in the file `${RESULT_PATH}`.
 
